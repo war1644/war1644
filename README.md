@@ -19,8 +19,8 @@ Today I work mostly with consultancy: <strong>legal</strong>, generally related 
 
 <p align="left">
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
-</p>
-personal: voidfleet@gmail.com
+</p>  
+personal: voidfleet@gmail.com  
 
 <img align="left" alt="Flutter" height=20px width="50px"  src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
 
