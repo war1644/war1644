@@ -10,7 +10,7 @@ Today I work mostly with consultancy: <strong>legal</strong>, generally related 
 </p>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript, Bootstrap, Materialize, Flutter, Java, Kotlin, Swift, Objetive-c.
+  🦄 <strong>Skills:</strong> PHP, JavaScript, Flutter, HTML5, CSS3, Bootstrap, Flutter, Java, Objetive-c.
 </p>
 
 <p align="left">
@@ -20,9 +20,7 @@ Today I work mostly with consultancy: <strong>legal</strong>, generally related 
 <p align="left">
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 </p>
-
-legal: borgesadvocacia@adv.oabsp.org.br
-personal: jonataborges01@gmail.com
+personal: voidfleet@gmail.com
 
 <img align="left" alt="Flutter" height=20px width="50px"  src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
 
