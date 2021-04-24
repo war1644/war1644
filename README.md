@@ -1,11 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-I'm <strong>mr.lu</strong>, a lawyer and a programmer passionate about productivity hacks. I spent a decade working with CyberSecurity and CyberCrimes, but in 2016 I learned the Dart language, then Flutter, and today I am passionate about everything related to that language. Before that I worked with <strong>backend development</strong> (javascript and php), <strong>frontend development</strong> (bootstrap, react, angular), and <strong>mobile development</strong> (native android with java and kotlin, native ios with swift and objc, xamarin, and react native).
- 
-I am the creator of <strong>GetX</strong>, a mobile/frontend framework capable of accelerating mobile, web and desktop development, which uses Flutter as a base, and of <strong>GetServer</strong>, a backend framework based on the same syntax, as well as authoring some multiplatform native solutions for the Flutter, like <strong>VideoCompress</strong>. I'm passionate about <strong>productivity hacks</strong>, and I try to make other developers' lives more productive.
+I'm <strong>war1644</strong>, a programmer passionate about productivity hacks. I have been coding and working for more than 6 years, but in 2020 I learned the Dart language, then Flutter, and today I am passionate about everything related to that language. Before that I worked with <strong>backend development</strong> (javascript and php).
 
-Today I work mostly with consultancy: <strong>legal</strong>, generally related to privacy policies, terms of use, data protection laws, or <strong>technical</strong> related to backend/frontend projects, related to structure, organization and security. 
+Today I am still typing code, and I will stick to the hobby and work of typing code for life . 
 
 </p>
 
@@ -24,17 +22,20 @@ Today I work mostly with consultancy: <strong>legal</strong>, generally related 
 <strong> voidfleet@gmail.com </strong>
 </p>
 
-<img align="left" alt="Flutter" height=20px width="50px"  src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
+<img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+<img align="left" alt="Flutter" width="50px" src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
+<img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" /><img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="CLI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="CLI" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 </br>
 </br>
