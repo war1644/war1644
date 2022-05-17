@@ -1,0 +1,31 @@
+{
+      "applinks": {
+          "apps": [],
+          "details": [
+              {
+                  "appID": "6ZD6732TW4.com.blinglink.phonelive",
+                  "paths": [ "*" ]
+              },
+              {
+                   "appID":"6ZD6732TW4.com.blinglink.phonelive",
+                   "paths": [ "*", "/qq_conn/101892346/*" ]
+              },
+              {
+                  "appID": "22VD6XJTS2.link.bling.dating",
+                  "paths": [ "*" ]
+              },
+              {
+                   "appID":"22VD6XJTS2.link.bling.dating",
+                   "paths": [ "*", "/qq_conn/1111169122/*" ]
+              },
+              {
+                  "appID": "75A5YM5888.com.tskj.chat",
+                  "paths": [ "*" ]
+              },
+              {
+                   "appID":"75A5YM5888.com.tskj.chat",
+                   "paths": [ "*", "/qq_conn/1111169122/*" ]
+              }
+          ]
+      }
+  }
