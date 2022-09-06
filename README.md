@@ -1,18 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-I'm <strong>war1644</strong>, a programmer passionate about productivity hacks. I have been coding and working for more than 6 years, but in 2020 I learned the Dart language, then Flutter, and today I am passionate about everything related to that language. Before that I worked with <strong>backend development</strong> (javascript and php).
+I'm <strong>war1644</strong>, a programmer passionate about productivity hacks. I have been coding and working for more than 6 years.
 
 Today I am still typing code, and I will stick to the hobby and work of typing code for life . 
 
 </p>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> PHP, JavaScript, Flutter, Golang, Java, Objetive-c.
+  🦄 <strong>Skills:</strong> PHP, JavaScript, Flutter, Golang.
 </p>
 
 <p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
+  💼 <strong>Tools:</strong> Visual Studio Code, Xcode and Git.
 </p>
 
 <p align="left">
